@@ -1,0 +1,166 @@
+#titulo{
+ background-color: #fc7303;
+}
+
+h1{
+font-family: 'Lobster', cursive;
+ font-weight: 400;
+ font-size: 3.5rem;
+ line-height: 1.5;
+ color: #FFFF;
+}
+
+#titulo{
+ background-color: #fc7303;
+}
+
+body{
+font-family: 'Raleway', sans-serif;
+}
+
+.navbar-brand{
+  font-family: 'Lobster', cursive;
+ font-size: 50px;
+ font-weight: bold;
+}
+
+.navbar {
+ padding-bottom: 0 0 4.5rem;
+}
+
+.nav-item {
+ padding: 0 18px;
+}
+.nav-link {
+	color: #ffffff;
+ font-size: 1.2rem;
+  font-family: 'Lobster', cursive;
+ font-weight: 100;
+}
+
+.download-button {
+ margin: 5% 3% 5% 0;
+}
+
+.container-fluid{
+ padding: 1% 15% 7%;
+}
+
+#caracteristicas {
+ padding: 7% 15%;
+}
+
+#caracteristicas {
+ padding: 7% 15%;
+ background-color: #fff;
+ position: relative;
+}
+
+.caja-caracteristica{
+ text-align: center;
+ padding: 5%;
+}
+
+h1 {
+ font-family: 'Lobster', cursive;
+ font-weight: 900;
+ font-size: 3.0rem;
+ line-height: 1.5;
+}
+
+h3 {
+ font-family: 'Montserrat';
+ font-size: 1.5rem;
+ font-weight: bold;
+}
+
+p{
+ color: #8f8f8f;
+}
+
+.icon {
+ color: #fc7303;
+ margin-bottom: 1rem;
+} 
+
+.icon:hover {
+ color: #fc4103;
+}
+
+#testimonios {
+ padding: 7% 15%;
+ text-align: center;
+ background-color: #fc7303;
+ color: #fff;
+}
+
+.img-testimonio{
+ width: 80%;
+ border-radius: 80%;
+ margin: 10px;
+}
+
+#precios {
+ padding: 100px;
+ text-align: center;
+}
+
+#cta{
+ background-color: #fc7303;
+ color: #fff;
+ padding: 7% 15%;
+ text-align: center;
+}
+
+.encabezado-cta{
+ font-family: 'Montserrat';
+ font-weight: 900;
+ font-size: 3.5rem;
+ line-height: 1.5;
+}
+
+.carousel-item{
+ padding: 7% 15%;
+}
+
+.precios-col {
+ padding: 3% 2%;
+}
+	
+ .title-image {
+ width: 60%;
+ position: absolute;
+ right: 30%
+ }
+
+@media (max-width: 1028px) {
+ #titulo{
+ text-align: center;
+ }
+
+ .title-image {
+ position: static;
+ transform: rotate(0);
+ }
+}
+	.social-icon{
+ margin: 20px 10px;
+}
+	#footer {
+ padding: 7% 15%;
+ text-align: center;
+}
+
+
+h4 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+	font-size: 3.5rem;
+	line-height: 1.5;
+	color: rgb(5, 5, 5);
+   }
+
+.col-lg-6{
+	text-align: right;
+}
+
